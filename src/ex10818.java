@@ -1,6 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class ex10818 {
@@ -47,5 +48,21 @@ public class ex10818 {
 			}
 		}
 		System.out.println(min + " " + max);
+		
+		
+//		//배열 사용하지 않고 푸는 방법
+//		Scanner s = new Scanner(System.in);
+//		int max = -1000001;
+//		int min = 1000001;
+//		
+//		System.out.print("입력하세요 : ");
+//		int N = s.nextInt();
+//		
+//		for(int i=0; i<N; i++) {
+//			int n = s.nextInt();
+//			if (max < n) max = n;
+//			if (min > n) min = n;
+//		}
+//		System.out.println(min + " " + max);
 	}
 }
