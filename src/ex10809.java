@@ -16,8 +16,7 @@ public class ex10809 {
 //		}
 		
 		
-		
-		
+
 		for (int i=97; i<123; i++) {
 			System.out.printf("%d ", str.indexOf(i));
 		}
