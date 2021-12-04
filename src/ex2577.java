@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ex2577 {
@@ -23,5 +22,7 @@ public class ex2577 {
 		for (int i=0; i<cnt.length; i++) {
 			System.out.println(cnt[i]);
 		}
+		
+		s.close();
 	}
 }

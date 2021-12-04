@@ -23,5 +23,7 @@ public class ex2440 {
 		for (int i=0; i<n; i++) {
 			System.out.println(String.join("", star[i]));
 		}
+		
+		sc.close();
 	}
 }

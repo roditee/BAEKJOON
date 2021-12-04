@@ -33,5 +33,7 @@ public class ex2562 {
 //		}
 //		System.out.println(max);
 //		System.out.println(maxIdx);
+		
+		s.close();
 	}
 }

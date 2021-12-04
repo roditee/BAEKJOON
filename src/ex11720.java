@@ -12,6 +12,8 @@ public class ex11720 {
 			total+=(int)num.charAt(i)-0x30;
 		}
 		System.out.println(total);
+		
+		s.close();
 	}
 
 }

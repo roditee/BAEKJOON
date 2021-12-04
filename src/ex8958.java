@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ex8958 {
@@ -22,5 +21,7 @@ public class ex8958 {
 			}
 			System.out.println(total);
 		}
+		
+		s.close();
 	}
 }

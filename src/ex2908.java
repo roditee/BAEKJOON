@@ -21,6 +21,8 @@ public class ex2908 {
 		
 		if (a < b) System.out.println(b);
 		else System.out.println(a);
+		
+		sc.close();
 	}
 
 }

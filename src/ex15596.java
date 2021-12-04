@@ -11,6 +11,8 @@ public class ex15596 {
 			a[i] = rand.nextInt(1000000)+1;
 		}
 		System.out.println(sum(a));
+		
+		sc.close();
 	}
 	
 	static long sum(int[] a) {

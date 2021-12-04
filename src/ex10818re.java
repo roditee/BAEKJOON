@@ -17,6 +17,8 @@ public class ex10818re {
 			if (min > n) min = n;
 		}
 		System.out.println(min + " " + max);
+		
+		s.close();
 	}
 
 }

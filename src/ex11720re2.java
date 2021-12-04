@@ -11,5 +11,7 @@ public class ex11720re2 {
 			total+=Character.getNumericValue(str.charAt(i));
 		}
 		System.out.println(total);
+		
+		s.close();
 	}
 }

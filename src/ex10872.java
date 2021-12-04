@@ -4,6 +4,7 @@ public class ex10872 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
         System.out.println(fact(sc.nextInt()));
+        sc.close();
 	}
 	
 	static int fact(int n) {

@@ -25,5 +25,7 @@ public class ex4344 {
 		float ratio = cnt/N*100;
 		System.out.printf("%.3f%%\n",ratio);
 		}
+		
+		s.close();
 	}
 }

@@ -13,5 +13,7 @@ public class ex11654 {
 		
 		//위 3줄을 한 줄로
 		//System.out.println((int)s.charAt(0));
+		
+		scan.close();
 	}
 }

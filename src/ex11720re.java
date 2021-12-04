@@ -16,5 +16,7 @@ public class ex11720re {
 			total+=num;
 		}
 		System.out.println(total);
+		
+		scan.close();
 	}
 }

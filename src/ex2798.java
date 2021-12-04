@@ -23,6 +23,7 @@ public class ex2798 {
 			}
 		}
 		System.out.println(max);
+		sc.close();
 	}
 
 }

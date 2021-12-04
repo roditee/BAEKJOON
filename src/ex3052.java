@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ex3052 {
@@ -34,5 +33,7 @@ public class ex3052 {
 			if (check[i] == true) cnt++;
 		}
 		System.out.println(cnt);
+		
+		s.close();
 	}
 }

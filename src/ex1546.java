@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ex1546 {
@@ -21,6 +20,8 @@ public class ex1546 {
 			total+=score[i];
 		}
 		System.out.printf("%.1f",total/score.length);
+		
+		s.close();
 	}
 
 }

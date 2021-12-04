@@ -9,6 +9,8 @@ public class ex1157 {
 		str = str.toUpperCase();
 		
 		int[] check = new int[26];
+		
+		sc.close();
 	}
 
 }

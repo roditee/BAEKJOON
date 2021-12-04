@@ -18,6 +18,7 @@ public class ex2675 {
 				}
 			}
 		}
+		sc.close();
 	}
 
 }
